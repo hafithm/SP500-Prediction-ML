@@ -1,5 +1,10 @@
 # SP500-Prediction-ML
 
+
+
+
+
+
 ## Project Overview
 
 This project aims to predict S&P 500 stock performance using machine learning models based on historical stock prices, fundamental indicators, and technical indicators. 
