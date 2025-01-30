@@ -1,7 +1,6 @@
 # SP500-Prediction-ML
 
-
-
+![image alt]([](https://github.com/hafithm/SP500-Prediction-ML/blob/0a5d4dc828236b7f1fd91ca7220d359dfa96abe0/SP500.webp)
 
 
 
